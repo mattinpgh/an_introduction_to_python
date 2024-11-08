@@ -1,6 +1,8 @@
 # an_introduction_to_python/2_introduction_to_programming/data_types.py
 
-''' Identify the data type or class for each of the following values:
+
+# * Identify the data type or class for each of the following values:
+''' 
 Value:          Type:
 'True'          str
 False           bool
@@ -14,12 +16,12 @@ None            NoneType
 {'foo': 'bar'}  dict
 '''
 
-# Create a tuple called names that contains several pet names
+# * Create a tuple called names that contains several pet names
 
 pet_names = ('Asta', 'Butterscotch', 'Pudding', 'Neptune', 'Darwin')
 
-# Create a dictionary named pets that containts a list of pet names and the  
-# type of animal 
+# * Create a dictionary named pets that contains a list of pet names and the  
+# * type of animal 
 
 pet_dict = {
     'Asta': 'dog',
@@ -28,4 +30,5 @@ pet_dict = {
     'Neptune': 'fish',
     'Darwin': 'lizard'
 }
+
 
